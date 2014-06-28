@@ -1,0 +1,36 @@
+Things to add:
+
+- 4 Additional levels
+- Tutorial level
+- Bug fixes
+	1) Control bugs
+	3) Level Scroll only fits 16:9
+- Final icon
+
+
+-------------------
+Additional Features
+- Pause Button
+- Mute music only option
+- Rotation sensitivity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Done-
+- Level completion menu
+- Level completion rotatating camera
+- Level timer
+- Level beginning wait time + 3 2 1 GO
+
+184dgy
